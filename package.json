@@ -1,0 +1,14 @@
+{
+  "name": "convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bennett Hardwick <bennetthardwick@icloud.com> (bennetthardwick.com)",
+  "license": "ISC",
+  "dependencies": {
+    "shortid": "^2.2.8"
+  }
+}
